@@ -57,4 +57,4 @@
 1. 오른쪽 상단 fork 누른 뒤 개인 repositories에 넣기
 2. 개인 repositories에 있는 algorithm-study에 들어가서 add_file
 3. create new file 누른 후 (자신의 이름/readme.md)치고 pull requests로 업로드
-4. pull requests에서 merge 눌러 적용!
+4. pull requests에서 merge 눌러 적용!!
