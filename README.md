@@ -20,11 +20,11 @@
 
 ## 2021.08.12 ~ 2021.08.22
   
-1. 난이도 상 문제: [백준 4949번-스택](https://www.acmicpc.net/problem/4949)
-2. 기본 문제 3개
-  - [백준 2292번-수학](https://www.acmicpc.net/problem/2292)
-  - [백준 1085번-수학](https://www.acmicpc.net/problem/1085)
-  - [백준 1547번-구현](https://www.acmicpc.net/problem/1547)
+- 난이도 상 문제: [백준 4949번-스택](https://www.acmicpc.net/problem/4949)
+- 기본 문제 3개
+  - 1. [백준 2292번-수학](https://www.acmicpc.net/problem/2292)
+  - 2. [백준 1085번-수학](https://www.acmicpc.net/problem/1085)
+  - 3. [백준 1547번-구현](https://www.acmicpc.net/problem/1547)
   
   
 </details>
