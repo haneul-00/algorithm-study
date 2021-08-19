@@ -8,8 +8,10 @@
 # 10개에 대한 리스트
 # 첫번째 가격에서 다음 수들에 대한 뺄셈 -> 마지막으로 남은 수를 출력하기
 
-total_fee = int(input())
-for _ in range(9):
+total_fee = int(input()) # 첫째줄에 10권의 총 가격
+
+for _ in range(9): # 책 9권에 대한 가격
     fee=int(input())
-    total_fee -=fee
-print(total_fee)
+    total_fee -= fee # 총 가격에서 각 책의 가격을 계속하여 뺌
+    
+print(total_fee) # 마지막 한 권에 대한 요금 출력
