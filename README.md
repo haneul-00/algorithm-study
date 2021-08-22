@@ -20,8 +20,9 @@
 
 ## 2021.08.12 ~ 2021.08.22
   
-- 난이도 상 문제: [백준 4949번-스택](https://www.acmicpc.net/problem/4949)
-- 기본 문제 3개
+- 난이도 상 문제
+  - 1. [백준 4949번-스택](https://www.acmicpc.net/problem/4949)
+- 기본 문제
   - 1. [백준 2292번-수학](https://www.acmicpc.net/problem/2292)
   - 2. [백준 1085번-수학](https://www.acmicpc.net/problem/1085)
   - 3. [백준 1547번-구현](https://www.acmicpc.net/problem/1547)
@@ -33,6 +34,12 @@
 
 ## 2021.08.23 ~ 2021.09.05
   
+- 난이도 상 문제
+  - 1. [백준 1920번-이분탐색](https://www.acmicpc.net/problem/1920)
+  - 2. [백준 2748번-수학&dp](https://www.acmicpc.net/problem/2748)
+- 기본 문제
+  - 1. [백준 2455번-수학](https://www.acmicpc.net/problem/2455)
+  - 2. [백준 5565번-수학](https://www.acmicpc.net/problem/5565)
 </details>
 <details>
   <summary> 2021-09-01주차 미션 </summary>
