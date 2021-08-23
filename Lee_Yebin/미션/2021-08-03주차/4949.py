@@ -14,12 +14,13 @@
 while(True):
     charList=input() # 한 줄의 문자열 리스트를 입력받음
     stack = [] # 괄호를 넣을 스택 (빈 리스트) 생성
+    
     if charList[0]=='.': # 첫번째 문자가 '.'인 경우는 종료
         break
+    
     for ch in charList:
         if ch=='(' or ch=='[': # 여는 괄호는 스택에 추가
             stack.append(ch)
-            continue
         elif ch==')' or ch==']': # 닫는 괄호인 경우
             if not stack: # 스택이 빈 리스트인 경우(닫는 괄호가 먼저 나오는 경우) 종료
                 print("no")
@@ -32,8 +33,8 @@ while(True):
             else:
                 print("no") # 짝이 맞지 않는 경우 no 출력 후 종료
                 break
-        elif ch=='.': # 마지막까지 도달한 경우 yes
-            if not stack:
+        elif ch=='.': # 마지막까지 도달한 경우
+            if not stack: # 스택이 완전히 비어있는 경우에만 균형
                 print("yes")
             else:
                 print("no")
