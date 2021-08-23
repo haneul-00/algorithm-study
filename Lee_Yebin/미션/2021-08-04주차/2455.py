@@ -29,10 +29,10 @@ sum=0
 max=0
 
 for _ in range(4):
-    a, b = map(int, input().split())
-    sum -= a
-    sum += b
-    if(max<sum):
-        max=sum
+    a, b = map(int, input().split()) # 두 수를 입력 받아
+    sum -= a # sum에서 첫번째 수에 대해선 뺄셈
+    sum += b # sum에서 두번째 수에 대해선 덧셈
+    if(max<sum): # 현재의 sum(기차에 타있는 사람 수) max보다 크다면
+        max=sum # 해당 수를 max에 저장
 
 print(max)
